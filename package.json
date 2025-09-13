@@ -1,0 +1,10 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "Simple API test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
